@@ -40,7 +40,7 @@ I’m a passionate web developer focused on building clean and responsive fronte
 ### 💬 Let's Connect!
 
 - 📧 Email: <a href="mailto:yatharthmaheshwari01@gmail.com">yatharthmaheshwari01@gmail.com</a>  
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/yatharth-rathi/" target="_blank" rel="noopener noreferrer">linkedin.com/in/yatharth-rathi</a>
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/yatharthrathii" target="_blank" rel="noopener noreferrer">linkedin.com/in/yatharth-rathi</a>
 
 ---
 
