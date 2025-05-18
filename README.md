@@ -1,29 +1,49 @@
-<h1 align="center">Hi , I'm Yatharth Rathi</h1>
-<h3 align="center">Web Developer</h3>
+<h1 align="center">Hi, I'm Yatharth Rathi 👋</h1>
+<h3 align="center">Web Developer | Frontend Enthusiast</h3>
 
-- 🌱 I’m currently learning **Web Development**
-
-- 📫 How to reach me **yatharthmaheshwari01@gmail.com**
-
-<p align="left">
+<p align="center">
+  🌱 I’m currently learning <strong>Web Development</strong><br/>
+  📫 Reach me at: <a href="mailto:yatharthmaheshwari01@gmail.com">yatharthmaheshwari01@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<!-- </a> </p>### Hi there 👋 -->
+---
 
-<!--
-**yatharthrathii/yatharthrathii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Languages and Tools I Use
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
+---
+
+### About Me
+
+I’m a passionate web developer focused on building clean and responsive frontend applications. I love turning ideas into reality using modern JavaScript frameworks like React and CSS tools like Tailwind and Bootstrap. Always eager to learn and grow in the web development world! 🚀
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yatharthrathii&show_icons=true&theme=radical" alt="Yatharth's GitHub Stats" />
+</p>
+
+---
+
+### 💬 Let's Connect!
+
+- 📧 Email: <a href="mailto:yatharthmaheshwari01@gmail.com">yatharthmaheshwari01@gmail.com</a>  
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/yatharth-rathi/" target="_blank" rel="noopener noreferrer">linkedin.com/in/yatharth-rathi</a>
+
+---
+
+> "Strive for progress, not perfection."  
+> — Yatharth Rathi
+
