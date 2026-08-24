@@ -8,7 +8,6 @@
 
 </div>
 
-<br/>
 
 ## About
 
@@ -54,18 +53,11 @@ Most of my work has been on systems where being wrong costs something real: book
 
 <br/>
 
-## Stats
+## Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yatharthrathii&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yatharthrathii&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0284C7&icon_color=0284C7" height="160" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthrathii&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=0EA5E9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthrathii&layout=compact&hide_border=true&langs_count=8&title_color=0284C7" height="160" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yatharthrathii&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=0EA5E9&line=0EA5E9&point=ffffff" width="100%" />
 
 <br/><br/>
 
@@ -76,7 +68,6 @@ Most of my work has been on systems where being wrong costs something real: book
 
 </div>
 
-<br/>
 
 ---
 
