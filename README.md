@@ -8,7 +8,7 @@ TypeScript · NestJS · Next.js · React · PostgreSQL · Kotlin
 
 <br/>
 
-**1.5+ years building web and mobile products** &nbsp;·&nbsp; Open to full-stack and backend roles
+**1+ year building web and mobile products in production** &nbsp;·&nbsp; Open to full-stack and backend roles
 
 <br/>
 
@@ -59,10 +59,12 @@ Most of my work has been on systems where being wrong costs something real: book
 
 | Domain | What I have built |
 |---|---|
-| **Travel and booking** | Flight and hotel funnels from search to seats to payment to confirmation. Supplier API integrations for live pricing, booking and cancellations. Itinerary and inventory platforms for tour operators. |
-| **Payments** | Checkout flows, instalment logic, and the reconciliation that follows when a gateway and a database disagree. |
+| **Travel and booking** | Flight and hotel funnels from search to seats to payment to confirmation. GDS supplier integrations for live search, fare rules, booking, ticketing and cancellation. A fare calendar, itinerary share pages and customer PDFs. |
+| **Holds and payments** | Seat and booking holds with expiry and reminder jobs, refunds, full and partial cancellation, and recovery of abandoned bookings over WhatsApp and email. |
+| **Notifications** | Web push for an admin PWA with signed action tokens, WhatsApp and email templates, and in-browser calling through a WhatsApp Business API provider. |
+| **CMS and permissions** | A site CMS for a B2B group-booking platform: publishing, branding, media library, SEO fields, and permission-based roles enforced server-side. |
 | **Multi-role apps** | One React Native app serving patients, delivery partners and merchants with different permissions and screens. |
-| **AI in production** | LLM-backed chat and content generation shipped to real users, with quotas, fallbacks and cost limits. |
+| **AI in production** | An LLM chatbot for health queries in a shipped mobile app, and AI card drafting in Recallify with a daily allowance reserved under a row lock. |
 | **E-commerce** | Storefronts and admin panels: catalogue, cart, orders and their lifecycle. |
 | **Leading** | Led a team of four developers: interviewing, code review, mentoring, and keeping a shared codebase consistent. |
 
@@ -105,6 +107,15 @@ Most of my work has been on systems where being wrong costs something real: book
 <img src="https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=DD2C00" alt="Firebase" />
 
 </div>
+
+<br/>
+
+## Projects
+
+| | |
+|---|---|
+| **[Recallify](https://github.com/yatharthrathii/Recallify)** | Spaced repetition that shows its work. FSRS-6 written by hand and checked against the reference library on 19,000 generated cases. 300+ tests. Next.js, NestJS, PostgreSQL. [Live](https://recallify-five.vercel.app) |
+| **[build-or-break](https://github.com/yatharthrathii/build-or-break)** | An Android routine app that replans your day when you run late and measures whether its alarms actually rang. 650+ tests, no server, no internet permission. Kotlin, Jetpack Compose. |
 
 <br/>
 
